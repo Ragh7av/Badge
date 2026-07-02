@@ -1,4 +1,4 @@
-An invitation badge which looks like soup and works as an morse code walkie talkie using esp now, maybe..!
+A name badge pcb which looks like soup and can use xiao esp 32 c3, some LEDs and switches to make a morse code walkie talkie using esp now communication, soon maybe..!
 <img width="828" height="743" alt="Screenshot 2026-07-02 181255" src="https://github.com/user-attachments/assets/4958d3ea-42ea-44be-9612-6d37ace71883" />
 <img width="1223" height="852" alt="Screenshot 2026-07-02 223706" src="https://github.com/user-attachments/assets/7d0b1000-9875-483e-88d0-cff32d13b2b5" />
 
